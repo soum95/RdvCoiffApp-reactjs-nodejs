@@ -1,0 +1,7 @@
+export const ADD_SERVICE='ADD_SERVICE';
+
+export const GET_ERRORS = 'GET_ERRORS';
+export const SET_CURRENT_USER = 'SET_CURRENT_USER';
+export const FETCH_SERVICE = 'FETCH_SERVICE';
+export const FETCH_EMPLOYEE = 'FETCH_EMPLOYEE';
+export const ADD_EMPLOYEE='ADD_EMPLOYEE';
